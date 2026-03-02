@@ -1,0 +1,256 @@
+season,celebrity_name,predicted_placement
+1,Joey McIntyre,1
+1,John O'Hurley,2
+1,Evander Holyfield,3
+1,Kelly Monaco,4
+2,Stacy Keibler,1
+2,George Hamilton,2
+2,Tia Carrere,3
+2,Master P,4
+2,Tatum O'Neal,5
+2,Kenny Mayne,6
+3,Mario Lopez,1
+3,Joey Lawrence,2
+3,Monique Coleman,3
+3,Jerry Springer,4
+3,Willa Ford,5
+3,Vivica A. Fox,6
+3,Harry Hamlin,7
+3,Shanna Moakler,8
+3,Tucker Carlson,9
+4,Laila Ali,1
+4,Ian Ziering,2
+4,John Ratzenberger,3
+4,Heather Mills,4
+4,Clyde Drexler,5
+4,Leeza Gibbons,6
+4,Shandi Finnessey,7
+4,Paulina Porizkova,8
+4,Billy Ray Cyrus,9
+5,Marie Osmond,1
+5,Jennie Garth,2
+5,Cameron Mathison,3
+5,Jane Seymour,4
+5,Sabrina Bryan,5
+5,Mark Cuban,6
+5,Floyd Mayweather Jr. ,7
+5,Wayne Newton,8
+5,Albert Reed,9
+5,Josie Maran,10
+6,Cristian de la Fuente,1
+6,Marissa Jaret Winokur,2
+6,Mario,3
+6,Shannon Elizabeth,4
+6,Marlee Matlin,5
+6,Priscilla Presley,6
+6,Adam Carolla,7
+6,Steve Guttenberg,8
+6,Monica Seles,9
+7,Lance Bass,1
+7,Cody Linley,2
+7,Maurice Greene,3
+7,Susan Lucci,4
+7,Toni Braxton,5
+7,Rocco DiSpirito,6
+7,Cloris Leachman,7
+7,Kim Kardashian,8
+7,Jeffrey Ross,9
+8,Melissa Rycroft,1
+8,Ty Murray,2
+8,Lil' Kim,3
+8,Chuck Wicks,4
+8,Lawrence Taylor,5
+8,Steve-O,6
+8,David Alan Grier,7
+8,Denise Richards,8
+8,Belinda Carlisle,9
+8,Steve Wozniak,10
+9,Kelly Osbourne,1
+9,Joanna Krupa,2
+9,Aaron Carter,3
+9,Mark Dacascos,4
+9,Melissa Joan Hart,5
+9,Natalie Coughlin,6
+9,Chuck Liddell,7
+9,Debi Mazar,8
+9,Kathy Ireland,9
+9,Macy Gray,10
+10,Erin Andrews,1
+10,Chad Ochocinco,2
+10,Niecy Nash,3
+10,Pamela Anderson,4
+10,Jake Pavelka,5
+10,Kate Gosselin,6
+10,Buzz Aldrin,7
+10,Shannen Doherty,8
+10,Aiden Turner,9
+11,Bristol Palin,1
+11,Brandy,2
+11,Kurt Warner,3
+11,Rick Fox,4
+11,Audrina Patridge,5
+11,Florence Henderson,6
+11,The Situation,7
+11,Margaret Cho,8
+11,Michael Bolton,9
+11,David Hasselhoff,10
+12,Chelsea Kane,1
+12,Ralph Macchio,2
+12,Romeo,3
+12,Kendra Wilkinson,4
+12,Chris Jericho,5
+12,Petra Nemcova,6
+12,Sugar Ray Leonard,7
+12,Wendy Williams,8
+12,Mike Catherwood,9
+13,Ricki Lake,1
+13,Hope Solo,2
+13,Nancy Grace,3
+13,David Arquette,4
+13,Chaz Bono,5
+13,Carson Kressley,6
+13,Chynna Phillips,7
+13,Kristin Cavallari,8
+13,Elisabetta Canalis,9
+13,Metta World Peace (Ron),10
+14,William Levy,1
+14,Maria Menounos,2
+14,Melissa Gilbert,3
+14,Jaleel White,4
+14,Gladys Knight,5
+14,Gavin DeGraw,6
+14,Sherri Sheperd,7
+14,Jack Wagner,8
+14,Martina Navratilova,9
+15,Kelly Monaco,1
+15,Emmitt Smith,2
+15,Kirstie Alley,3
+15,Sabrina Bryan,4
+15,Bristol Palin,5
+15,Drew Lachey,6
+15,Joey Fatone,7
+15,Pamela Anderson,8
+16,Alexandra Raisman,1
+16,Ingo Rademacher,2
+16,Sean Lowe,3
+16,Andy Dick,4
+16,Victor Ortiz,5
+16,Lisa Vanderpump,6
+16,D. L. Hughley,7
+17,Leah Remini,1
+17,Elizabeth Berkley Lauren,2
+17,Brant Daugherty,3
+17,"Nicole ""Snooki"" Polizzi",4
+17,Bill Engvall,5
+17,Christina Milian,6
+17,Valerie Harper,7
+17,Keyshawn Johnson,8
+17,Bill Nye,9
+18,James Maslow,1
+18,Charlie White,2
+18,Danica McKellar,3
+18,NeNe Leakes,4
+18,Cody Simpson,5
+18,Drew Carey,6
+18,Sean Avery,7
+18,Diana Nyad,8
+19,Bethany Mota,1
+19,Tommy Chong,2
+19,Lea Thompson,3
+19,Antonio Sabato Jr.,4
+19,Jonathan Bennett,5
+19,Michael Waltrip,6
+19,Betsey Johnson,7
+19,Randy Couture,8
+19,Tavis Smiley,9
+19,Lolo Jones,10
+20,Noah Galloway,1
+20,Nastia Liukin,2
+20,Robert Herjavec,3
+20,Willow Shields,4
+20,Patti LaBelle,5
+20,Suzanne Somers,6
+20,Michael Sam,7
+20,Charlotte McKinney,8
+20,Redfoo,9
+21,Carlos PenaVega,1
+21,Alek Skarlatos,2
+21,Alexa PenaVega,3
+21,Andy Grammer,4
+21,Hayes Grier,5
+21,Gary Busey,6
+21,Paula Deen,7
+21,Chaka Khan,8
+22,Ginger Zee,1
+22,Antonio Brown,2
+22,Jodie Sweetin,3
+22,Kim Fields,4
+22,Doug Flutie,5
+22,Marla Maples,6
+22,Mischa Barton,7
+22,Geraldo Rivera,8
+23,Jana Kramer,1
+23,Terra Jole,2
+23,Marilu Henner,3
+23,Ryan Lochte,4
+23,Amber Rose,5
+23,Maureen McCormick,6
+23,Babyface,7
+23,Rick Perry,8
+23,Jake T. Austin,9
+24,Normani,1
+24,Simone Biles,2
+24,Bonner Bolton,3
+24,Nick Viall,4
+24,Heather Morris,5
+24,Erika Jayne,6
+24,Mr. T,7
+24,Charo,8
+24,Chris Kattan,9
+25,Drew Scott,1
+25,Victoria Arlen,2
+25,Terrell Owens,3
+25,Nikki Bella,4
+25,Nick Lachey,5
+25,Derek Fisher,6
+25,Sasha Pieterse,7
+25,Barbara Corcoran,8
+26,Tonya Harding,1
+26,Jennie Finch Daigle,2
+26,Arike Ogunbowale,3
+26,Johnny Damon,4
+27,Alexis Ren,1
+27,DeMarcus Ware,2
+27,Mary Lou Retton,3
+27,Joe Amabile,4
+27,Tinashe,5
+27,Nancy McKeon,6
+27,Danelle Umstead,7
+27,Nikki Glaser,8
+28,Lauren Alaina,1
+28,Sean Spicer,2
+28,Lamar Odom,3
+29,Justina Machado,1
+29,AJ McLean,2
+29,Chrishell Stause,3
+29,Carole Baskin,4
+30,Jimmie Allen,1
+30,Amanda Kloots,2
+30,Kenya Moore,3
+30,Melanie C,4
+30,Brian Austin Green,5
+30,Christine Chiu,6
+30,Martin Kove,7
+31,Shangela,1
+31,Sam Champion,2
+31,Cheryl Ladd,3
+31,Jason Lewis,4
+32,Alyson Hannigan,1
+32,Mira Sorvino,2
+32,Adrian Peterson,3
+32,Matt Walsh,4
+33,Danny Amendola,1
+33,Brooks Nader,2
+33,Reginald VelJohnson,3
+34,Elaine Hendrix,1
+34,Andy Richter,2

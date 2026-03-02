@@ -1,0 +1,7 @@
+{
+  "w_min": 0.35,
+  "w_max": 0.7,
+  "kappa": 0.02,
+  "delta": 0.02,
+  "bottom_two_save": true
+}

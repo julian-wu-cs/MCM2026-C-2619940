@@ -1,0 +1,4 @@
+method,score,fan_alignment_scaled,stability_scaled,elim_accuracy_scaled,transparency_scaled
+percent,0.8399115249756255,1.0,0.0,1.0,1.0
+judge-save,0.3274274704798974,1.0,0.0,0.10752688172043019,0.0
+rank,0.25552342660808364,0.0,1.0,0.0,1.0
